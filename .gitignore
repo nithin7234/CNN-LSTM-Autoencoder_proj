@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+ENV/
+
+# TensorFlow / Keras models
+*.h5
+*.keras
+
+# Results and logs
+results/models/
+results/reports/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
